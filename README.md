@@ -8,6 +8,7 @@
 
 - [App Store](https://apps.apple.com/ge/developer/cuong-pham/id1633011944) 🍎 [Little Corner: Daily Journal](https://apps.apple.com/ge/app/little-corner-daily-journal/id1633011942)
 - [Play Store](https://play.google.com/store/apps/dev?id=8748015601074315583) 🤖 [Little Corner: Daily Journal](https://play.google.com/store/apps/details?id=com.github.simonpham.littlecorner) • [Media Converter Pro](https://play.google.com/store/apps/details?id=com.github.khangnt.mcp) • [DevTiles: Developer Quick Settings](https://play.google.com/store/apps/details?id=com.github.simonpham.devtiles)
+- GitHub 🦊 [SoFluffy Chat](https://github.com/simonpham/sofluffy-chat) • [Free File](https://github.com/simonpham/free_file)
 
 ### 📘 Latest blog posts
 
