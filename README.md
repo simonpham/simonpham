@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 118 hrs 4 mins
+Total Time: 120 hrs 9 mins
 
-Dart           90 hrs 2 mins         🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾🐾🐾   76.25 %
-Markdown       9 hrs 21 mins         🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   07.93 %
-Other          7 hrs 47 mins         🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   06.59 %
+Dart           92 hrs 40 mins        🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾🐾🐾   77.13 %
+Markdown       9 hrs 1 min           🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   07.52 %
+Other          7 hrs 48 mins         🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   06.50 %
 ```
 
 <!--END_SECTION:waka-->
