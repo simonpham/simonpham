@@ -24,12 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 90 hrs 13 mins
+Total Time: 97 hrs 33 mins
 
-Dart          75 hrs 11 mins        🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾   83.35 %
-Markdown      5 hrs 33 mins         🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   06.17 %
-YAML          3 hrs 11 mins         🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   03.54 %
-Other         2 hrs 28 mins         🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   02.74 %
+Dart          83 hrs 4 mins         🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾   85.15 %
+Markdown      5 hrs 26 mins         🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   05.58 %
+YAML          3 hrs                 🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   03.08 %
+Other         2 hrs 38 mins         🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   02.71 %
 ```
 
 <!--END_SECTION:waka-->
