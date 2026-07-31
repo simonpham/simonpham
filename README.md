@@ -1,14 +1,23 @@
 ## WELCOME TO MY PROFILE 😊
+<div>
+  <img src="assets/images/hi_100.gif" alt="Hi!" width="100" height="100" />
+</div>
+
+### 🦊 Hi there!
+I'm currently using a **very good** code editor – **[Lumide](https://lumide.dev)** to build a **very good** code editor – **[Lumide](https://lumide.dev)**. Powered by [Flutter](https://flutter.dev), ***99.1% pure*** (other 0.9% are 🦊 magic).
+
+If you find yourself struggling with a _**V**ery **S**low Code_ editor that eats all your RAM, [give Lumide a try!](http://lumide.dev/download)
 
 ### 💻 Coding stats
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
 
-### 📱 See my apps on
+### 📱 See my apps & projects
 
+- **Featured: [Lumide](https://lumide.dev) — The Agent-Native IDE**
 - [App Store](https://apps.apple.com/ge/developer/cuong-pham/id1633011944) 🍎 [Little Corner: Daily Journal](https://apps.apple.com/ge/app/little-corner-daily-journal/id1633011942)
 - [Play Store](https://play.google.com/store/apps/dev?id=8748015601074315583) 🤖 [Little Corner: Daily Journal](https://play.google.com/store/apps/details?id=com.github.simonpham.littlecorner) • [Media Converter Pro](https://play.google.com/store/apps/details?id=com.github.khangnt.mcp) • [DevTiles: Developer Quick Settings](https://play.google.com/store/apps/details?id=com.github.simonpham.devtiles)
-- GitHub 🦊 [SoFluffy Chat](https://github.com/simonpham/sofluffy-chat) • [Free File](https://github.com/simonpham/free_file)
+- GitHub 🦊 [Lumide](https://github.com/SoFluffyOS/lumide) • [SoFluffy Chat](https://github.com/simonpham/sofluffy-chat) • [Free File](https://github.com/simonpham/free_file)
 
 ### 📘 Latest blog posts
 
@@ -18,7 +27,7 @@
 - [Using SharedPreferences in Flutter effortlessly [UPDATED]](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
 <!-- BLOG-POST-LIST:END -->
 
-### 💬  What I'm currently doing 
+### 💬 What I'm currently doing 
 
 
 <!--START_SECTION:waka-->
