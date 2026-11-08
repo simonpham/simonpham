@@ -33,12 +33,13 @@ If you find yourself struggling with a _**V**ery **S**low Code_ editor that eats
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 288 hrs
+Total Time: 276 hrs 43 mins
 
-Dart                       140 hrs 31 mins       🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   48.79 %
-Markdown                   55 hrs 20 mins        🦊🦊🦊🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   19.21 %
-Text                       20 hrs 32 mins        🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   07.13 %
-Other                      16 hrs 7 mins         🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   05.60 %
+Dart                       135 hrs 50 mins       🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   49.09 %
+Markdown                   52 hrs 27 mins        🦊🦊🦊🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   18.96 %
+Text                       20 hrs 32 mins        🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   07.42 %
+C++                        15 hrs 21 mins        🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   05.55 %
+Other                      14 hrs 28 mins        🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   05.23 %
 ```
 
 <!--END_SECTION:waka-->
